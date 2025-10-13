@@ -46,7 +46,7 @@ Final grades will be based on a combination of participation, in-class presentat
 | Component | Weight | Description |
 | :---- | ----- | ----- |
 | **Participation** | 10% | Active engagement in class discussions, group work, and coding exercises. |
-| **In-Class Presentations** | 35% | Each student will present their final project during the last class session |
+| **In-Class Presentations** | 35% | Each student will present their final project (2 mins) during the last class session |
 | **Homework Assignments** | 30% | Four structured problem sets designed to reinforce core skills.  |
 | **Final Paper** | 25% | A 1,000 word paper \+ code project pairing a method of data collection and text analysis. The final project will live in GitHub, helping students build a professional data science portfolio. |
 
@@ -215,7 +215,7 @@ We will also learn how to use topic modeling to quickly parse out the primary to
 **Session 4: In class presentations**
 
 * Final presentations:  
-  * Each student will have 5 minutes to present their final project and 2 minutes for questions   
+  * Each student will have 2 minutes to present their final project and 2 minutes for questions   
 * Homework:  
   * Assignment due at 10am prior to class
 
