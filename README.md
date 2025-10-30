@@ -81,12 +81,13 @@ We will also learn how to extract news articles from the Factiva News database a
   * What is Factiva?  
   * How to scrape articles from the Factiva database?  
 * Curriculum for this session:  
-  * Rebecca Krisel's [Intro to APIs with Python](https://github.com/rskrisel/api_workshop/blob/main/API_workshop.ipynb)  
-  * Xavier Adam's [An illustrated introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) and [API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)  
-  * Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/webscraping/blob/main/web_scraping.ipynb)  
-  * Rebecca Krisel's [Collecting news data from Factiva and saving it in a Dataframe](https://github.com/rskrisel/factiva_dataframe/blob/main/Create_spreadsheet_Factiva_data.ipynb)  
+  * Rebecca Krisel's [Data Collection with APIs & Web Scraping](https://github.com/rskrisel/Data-Collection-with-APIs-Web-Scraping/blob/main/Session1_APIs_WebScraping_Workbook.ipynb)
 * Additional readings/resources (not required, but useful\!):  
   * Tutorials:  
+   * Rebecca Krisel's [Intro to APIs with Python](https://github.com/rskrisel/api_workshop/blob/main/API_workshop.ipynb)  
+   * Xavier Adam's [An illustrated introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) and [API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)  
+   *  Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/webscraping/blob/main/web_scraping.ipynb)  
+   * Rebecca Krisel's [Collecting news data from Factiva and saving it in a Dataframe](https://github.com/rskrisel/factiva_dataframe/blob/main/Create_spreadsheet_Factiva_data.ipynb) 
     * Melanie Walsh,\_ Introduction to Cultural Analytics\_, [Application Programming Interfaces (APIs)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/05-What-Is-API.html)  
     * Datacamp: [Scraping the Amazon Best Selling Books](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)  
     * Dataquest: [Tutorial: Web Scraping with Python Using Beautiful Soup](https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/)  
