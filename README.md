@@ -60,9 +60,14 @@ Final grades will be based on a combination of participation, in-class presentat
 
 **Weekly class structure (sessions 1-3):**
 
-* Lecture (15 min)  
+* Lecture (15 min)  weekly slides available [here](https://drive.google.com/drive/folders/1e9_cFBk4FzLSZnBO8Ize_zo2p7ievnAF?usp=sharing)
 * Hands-On Live Coding (120 min, two topics with 30 min break in between)  
 * Student-Driven Work with Faculty Support (60 min)
+
+**Python + GitHub review materials**
+  * Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)  
+  * GitHub:[The Basics of GitHub](https://github.com/intro-to-text-analysis-F23/week3-github-tutorial-478184?tab=readme-ov-file)  
+  * Rebecca Krisel's [\_Intro to Python](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) 
 
 **Session 1:  Working with APIs \+ Web Scraping (9/20/25)**
 
