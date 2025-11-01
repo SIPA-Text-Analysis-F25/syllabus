@@ -16,9 +16,9 @@
 
 **Meeting Date/s Times**: Saturdays from November 1 to November 22, 11:30 AM – 3:30 PM (3.5 hours of instruction with a 30-minute break)
 
-**Meeting Location:** IAB 410  
+**Meeting Location:** IAB 413  
    
-**Instructor’s Office Hours:** TBD, 2 hours via Zoom
+**Instructor’s Office Hours:** Fridays 9:15am - 11:15am, sign up [here](https://calendly.com/rsk2160/office-hour)
 
 **Course Description:** We are living in the information age, a historical era characterized by a shift from industrial production to one based on information and computerization. In practical terms, this means we are experiencing a period of history that is overflowing with what is termed "big data." These are text and numeric data sets that are too large or complex to be dealt with by traditional data-processing application software and instead require computational methods like Python for data collection, processing, and analysis. Since "big data" encapsulates all of the digital trails we leave behind in our interconnected world, these data points present new opportunities to uncover insights that are of critical importance to policy leaders today. By using a programming language like Python, we can extract meaning from society's digital imprints to research social questions at a groundbreaking scale.
 
