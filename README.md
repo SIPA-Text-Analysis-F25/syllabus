@@ -119,9 +119,8 @@ We will also learn how to perform a sentiment analysis using social media data, 
 
     
 
-* Curriculum for this session:  
-  * Rebecca Krisel/ChatGPT, [Extracting Youtube Comments](https://chat.openai.com/share/290c2c82-a05d-405c-a2ce-a182eae074eb)  
-  * Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop/blob/main/sentiment_analysis.ipynb)  
+* Curriculum for this session:
+  * Rebecca Krisel's [YouTube + VADER Sentiment](https://github.com/rskrisel/youtube_vader/blob/main/youtube_vader_sentiment_analysis.ipynb)
   * Pedro Hernández, [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)  
   * Martin Breuss, [ChatGPT: Your Personal Python Coding Mentor](https://realpython.com/chatgpt-coding-mentor-python/)  
   * Geeks for Geeks, [How to Extract YouTube Comments Using Youtube API – Python](https://www.geeksforgeeks.org/how-to-extract-youtube-comments-using-youtube-api-python/)  
@@ -139,7 +138,8 @@ We will also learn how to perform a sentiment analysis using social media data, 
       * [Reddit/Pushift API](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/14-Reddit-Data.html)  
       * [Spotify's API](https://developer.spotify.com/documentation/web-api/libraries/) with [Spotipy](https://spotipy.readthedocs.io/). More details from [Towards Data Science](https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50)  
       * TikTok: [TikTok hashtag analysis toolset](https://github.com/bellingcat/tiktok-hashtag-analysis) & [PykTok](https://github.com/dfreelon/pyktok)  
-    * Rebecca Krisel, [Working with Twitter Data](https://github.com/rskrisel/working_with_twitter)  
+    * Rebecca Krisel, [Working with Twitter Data](https://github.com/rskrisel/working_with_twitter)
+    * Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop/blob/main/sentiment_analysis.ipynb) 
     * Melanie Walsh, *Introduction to Cultural Analytics*, [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)  
     * Analytics Vidhya: [Performing Sentiment Analysis Using Twitter Data\!](https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-using-twitter-data/)  
     * Learn Data Science: [Sentiment Analysis on Reddit News Headlines with Python's Natural Language Toolkit (NLTK)](https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/)  
