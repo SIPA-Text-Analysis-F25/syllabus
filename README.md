@@ -69,7 +69,7 @@ Final grades will be based on a combination of participation, in-class presentat
   * GitHub:[The Basics of GitHub](https://github.com/intro-to-text-analysis-F23/week3-github-tutorial-478184?tab=readme-ov-file)  
   * Rebecca Krisel's [\_Intro to Python](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) 
 
-**Session 1:  Working with APIs \+ Web Scraping (9/20/25)**
+**Session 1:  Working with APIs \+ Web Scraping (11/1/25)**
 
 This week, we will learn how to make data requests from an Application Programming Interface (API). APIs allow users to programmatically extract and interact with data under the hood of websites, social networks, applications, and projects. For example, the weather app on your phone connects to the weather bureau's API system, which contains daily weather data, and shows you daily weather updates. We will specifically work with the free version of News API for collecting news data.
 
@@ -101,7 +101,7 @@ We will also learn how to extract news articles from the Factiva News database a
     * Python for Beginners: [List of Python API's](https://www.pythonforbeginners.com/api/list-of-python-apis)  
     * AI Multiple: [Watch-outs for Legal and Ethical Web Scraping in 2022](https://research.aimultiple.com/web-scraping-ethics/#:~:text=Scraping%20publicly%20available%20information%20on,personally%20identifiable%20information%20\(PII\).)
 
-**Session 2: Social Media Data and Sentiment Analysis** **(9/27/25)**
+**Session 2: Social Media Data and Sentiment Analysis** **(11/8/25)**
 
 This week, we will learn how to make data requests from the YouTube API. We will use the Pandas library to wrangle, clean, analyze, and visualize YouTube data. We will also discuss approaches for collecting other types of social media data, including TikTok, Instagram, Facebook, Reddit, and more. 
 
@@ -167,7 +167,7 @@ We will also learn how to perform a sentiment analysis using social media data, 
     * Yu, Xiaoyan, Shiyong Wu, Wei Chen, and Mingxi Huang. "Sentiment Analysis of Public Opinions on the Higher Education Expansion Policy in China." *SAGE Open* 11, no. 3 (July 1, 2021): 21582440211040776\. [https://doi.org/10.1177/21582440211040778](https://doi.org/10.1177/21582440211040778).  
       * "This study looks at public opinions on the higher education expansion policy that was specifically implemented by China's government to navigate graduate employment difficulties against the impact of COVID-19."
 
-**Session 3: Term Frequency-Inverse Document Frequency (TF-IDF) \+ Topic Modeling**
+**Session 3: Term Frequency-Inverse Document Frequency (TF-IDF) \+ Topic Modeling (11/15)** 
 
 This week, we will learn about term frequency-inverse document frequency, often abbreviated TF-IDF. TF-IDF is a text analysis method that builds off word frequency but it more specifically tries to identify the most distinctively frequent and significant words.
 
@@ -218,7 +218,7 @@ We will also learn how to use topic modeling to quickly parse out the primary to
       * This study uses TF-IDF and sentiment analysis to study UK MPs' Tweets on Brexit.  
     * 
 
-**Session 4: In class presentations**
+**Session 4: In class presentations (11/22**
 
 * Final presentations:  
   * Each student will have 2 minutes to present their final project and 2 minutes for questions   
