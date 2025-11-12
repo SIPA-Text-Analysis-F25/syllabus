@@ -48,7 +48,7 @@ Final grades will be based on a combination of participation, in-class presentat
 | **Participation** | 10% | Active engagement in class discussions, group work, and coding exercises. |
 | **In-Class Presentations** | 35% | Each student will present their final project (2 mins) during the last class session |
 | **Homework Assignments** | 30% | Four structured problem sets designed to reinforce core skills.  |
-| **Final Paper** | 25% | A 1,000 word paper \+ code project pairing a method of data collection and text analysis. The final project will live in GitHub, helping students build a professional data science portfolio. |
+| **Final Paper** | 25% | A 1,000 word paper \+ code project pairing a method of data collection and text analysis. The final project will live in GitHub, helping students build a professional data science portfolio. **Due on 12/6 at 11:59pm ET** |
 
 **Late work policy:** Extensions may be granted with prior notice. Unexcused late submissions will be subject to a deduction of 10% per day.
 
@@ -183,12 +183,13 @@ We will also learn how to use topic modeling to quickly parse out the primary to
   * How to perform Topic Modeling with newspaper data?  
   * How to use this method with other text data sources?  
 * Curriculum for this session:  
-  * Rebecca Krisel, [TF-IDF with Scikit-Learn](https://github.com/rskrisel/tf-idf/blob/main/README.md). Copied from Melanie Walsh's [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html). A few code updates were made to reflect the newest versions of Scikit-learn and Pandas.  
-  * Rebecca Krisel, [Topic Modeling with Tomotopy](https://github.com/rskrisel/topic_modeling_workshop/blob/main/topic_modeling_tomotopy_workshop.ipynb).  
+  * Rebecca Krisel, [TF-IDF & Topic Modeling](https://github.com/rskrisel/tfidf_topic_modeling/blob/main/Intro_Text_Analysis_TFIDF_LDA_Inaugurals.ipynb) 
 * Homework:  
   * Assignment due at 10am prior to class  
 * Additional readings/resources (not required, but useful\!):  
   * Tutorials:  
+    * Rebecca Krisel, [TF-IDF with Scikit-Learn](https://github.com/rskrisel/tf-idf/blob/main/README.md). Copied from Melanie Walsh's [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html). A few code updates were made to reflect the newest versions of Scikit-learn and Pandas.  
+  * Rebecca Krisel, [Topic Modeling with Tomotopy](https://github.com/rskrisel/topic_modeling_workshop/blob/main/topic_modeling_tomotopy_workshop.ipynb). 
     * Melanie Walsh, *Introduction to Cultural Analytics*, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)  
     * Analytics Vidhya: [Creating a Movie Reviews Classifier Using TF-IDF in Python](https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/)  
     * Nick Becker: [Clustering US Laws using TF-IDF and K-Means](https://beckernick.github.io/_posts/2016-08-17-law-clustering/)  
