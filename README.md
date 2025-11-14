@@ -229,6 +229,7 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
     - How to use this method with other text data sources?
 - Curriculum for this session:
    * Rebecca Krisel's [Named Entity Recognition (NER) + Co‑Mention Networks](https://github.com/rskrisel/Named-Entity-Recognition-NER-Co-Mention-Network/blob/main/NER_Live_Coding_NER_to_Network.ipynb)
+   * Rebecca Krisel's [Collecting news data from Factiva and saving it in a Dataframe](https://github.com/rskrisel/factiva_dataframe/blob/main/Create_spreadsheet_Factiva_data.ipynb)
 * Final presentations:  
   * Each student will have 2 minutes to present their final project and 2 minutes for questions   
 * Homework:  
