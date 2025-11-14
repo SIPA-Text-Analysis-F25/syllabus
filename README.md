@@ -219,12 +219,23 @@ We will also learn how to use topic modeling to quickly parse out the primary to
       * This study uses TF-IDF and sentiment analysis to study UK MPs' Tweets on Brexit.  
     * 
 
-**Session 4: In class presentations (11/22**
+**Session 4: Named Entity Recognition + In class presentations (11/22)**
+This week, we will learn how to apply Named Entity Recognition (NER) to text files. NER locates and classifies named entities mentioned in unstructured text into preset categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, and other categories. It's a useful way to quickly parse out the who, what, where, when, how much, etc… in a large body of text. We will use the spaCy Python library to perform NER. 
 
+- Topics covered: 
+    - What is Named Entity Recognition (NER)?
+    - What are practical applications of NER?
+    - How to perform NER with newspaper data?
+    - How to use this method with other text data sources?
+- Curriculum for this session:
+   * Rebecca Krisel's [Named Entity Recognition (NER) + Co‑Mention Networks](https://github.com/rskrisel/Named-Entity-Recognition-NER-Co-Mention-Network/blob/main/NER_Live_Coding_NER_to_Network.ipynb)
 * Final presentations:  
   * Each student will have 2 minutes to present their final project and 2 minutes for questions   
 * Homework:  
   * Assignment due at 10am prior to class
+
+Final homework assignment due on 11/29 (on Courseworks)
+Finale paper due on 12/6
 
 **SIPA Academic Integrity Statement:**   
 *The School of International & Public Affairs does not tolerate cheating or plagiarism in any form. Students who violate the Code of Academic & Professional Conduct will be subject to the Dean’s Disciplinary Procedures.* 
