@@ -46,9 +46,9 @@ Final grades will be based on a combination of participation, in-class presentat
 | Component | Weight | Description |
 | :---- | ----- | ----- |
 | **Participation** | 10% | Active engagement in class discussions, group work, and coding exercises. |
-| **In-Class Presentations** | 35% | Each student will present their final project (2 mins) during the last class session |
+| **In-Class Presentations** | 35% | Each student will present their final project (2 mins) during the last class session See rubric [here](https://github.com/rskrisel/final_presentation_rubric/blob/main/README.md) |
 | **Homework Assignments** | 30% | Four structured problem sets designed to reinforce core skills.  |
-| **Final Paper** | 25% | A 1,000 word paper \+ code project pairing a method of data collection and text analysis. The final project will live in GitHub, helping students build a professional data science portfolio. **Due on 12/6 at 11:59pm ET** |
+| **Final Paper** | 25% | A 1,000 word paper \+ code project pairing a method of data collection and text analysis. The final project will live in GitHub, helping students build a professional data science portfolio. See rubric and past project [here](https://github.com/rskrisel/final_paper_rubric/blob/main/README.md) **Due on 12/6 at 11:59pm ET** |
 
 **Late work policy:** Extensions may be granted with prior notice. Unexcused late submissions will be subject to a deduction of 10% per day.
 
